@@ -6,8 +6,8 @@
 // 3. Substitua as credenciais abaixo com as suas
 // 4. Execute os scripts SQL fornecidos no arquivo database-setup.sql
 
-const SUPABASE_URL = 'SUA_URL_AQUI'; // Ex: https://xyzcompany.supabase.co
-const SUPABASE_ANON_KEY = 'SUA_CHAVE_AQUI'; // Sua chave anônima do Supabase
+const SUPABASE_URL = 'https://oiypwnnbocmeegzyluml.supabase.co'; // Ex: https://xyzcompany.supabase.co
+const SUPABASE_ANON_KEY = 'sb_publishable_ohwoLhXB8-rEeR97DEgHcQ_fiDPFiIB'; // Sua chave anônima do Supabase
 
 // Inicializar Supabase Client
 let supabaseClient;
